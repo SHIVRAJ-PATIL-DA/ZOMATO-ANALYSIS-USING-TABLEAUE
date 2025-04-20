@@ -33,8 +33,10 @@ If anyone knows of any opportunities or has any advice to share, I would greatly
 Thank you in advance for your support and connections! 🙏✨
 
 💡 Check out my dashboard from below links and let me know your thoughts!
+
 🔗 [Live Dashboard] https://public.tableau.com/app/profile/shivraj.patil8319/viz/zomatodashboard_17380032299480/Dashboard1?publish=yes
- 🔗[Portfolio] https://lnkd.in/dJ-yvkJh
+
+🔗[Portfolio] https://lnkd.in/dJ-yvkJh
 
 
 hashtag#DataAnalytics hashtag#BusinessIntelligenc hashtag#DataScience hashtag#DataVisualization hashtag#PowerBI hashtag#BigData hashtag#Analytics hashtag#DataDriven hashtag#MachineLearning hashtag#DataAnalysis hashtag#ArtificialIntelligence • hashtag#Zomato hashtag#RestaurantBusiness hashtag#RestaurantMarketing hashtag#FoodAnalytics hashtag#ProjectShowcase hashtag#DataProject hashtag#BIProject hashtag#AnalyticsProject hashtag#DataVisualizationProject hashtag#BusinessGrowth
